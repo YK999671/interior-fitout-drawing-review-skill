@@ -1,0 +1,6 @@
+interface:
+  display_name: "精装修图纸会审"
+  short_description: "按项目标准全量预审精装修及相关专业图纸并输出证据台账"
+  default_prompt: "Use $interior-fitout-drawing-review to review the drawings in this local folder and produce an evidence-backed issue register with coverage metrics."
+policy:
+  allow_implicit_invocation: true

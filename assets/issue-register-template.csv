@@ -1,0 +1,2 @@
+issue_id,title,category,discipline,severity,judgement,building,floor,unit_type,room,drawing_no,finding,evidence,impact,question_to_designer,required_information,confidence,status
+FITOUT-001,示例问题,图纸自洽,精装修,中,needs_confirmation,A栋,标准层,U1,厨房,ID-P01,问题描述,图号/句柄/截图,影响描述,请设计确认的问题,需要补充的资料,0.70,open

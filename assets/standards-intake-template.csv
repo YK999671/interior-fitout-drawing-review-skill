@@ -1,0 +1,2 @@
+rule_id,source_type,source_file,source_version,clause_or_drawing,original_text,scope,check_target,acceptance_condition,precedence,automation,conflict_status,enabled
+PROJECT-001,甲方标准,文件路径,版本/日期,条款号,原文,适用楼栋/层位/空间,检查对象,判定条件,待合同确认,辅助,unchecked,true
