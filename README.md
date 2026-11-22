@@ -63,6 +63,8 @@ Skill 输出的是可复核的预审意见。没有统一坐标或标高时，�
 - `assets/`：空白和匿名化示例模板；
 - `scripts/`：CAD 解析、清单、规则候选、覆盖矩阵、版本比较和台账校验工具。
 
-## License
+## 使用与分发许可
 
-MIT。见 [LICENSE](LICENSE)。
+允许免费安装、内部调整、用于收费项目及交付项目成果。免费分享修改版时须标明修改情况并保留声明。未经书面许可，不得出售本许可涵盖的 Skill 或修改版，也不得将其捆绑在付费产品中交付。 完整条款见 [LICENSE](LICENSE)。
+
+[此前按 MIT 发布的内容](https://github.com/YK999671/interior-fitout-drawing-review-skill/tree/a6fbcc556c257926efdcd4a88c98a9f3c4311e13)继续遵循 [MIT 原文](LICENSE-MIT)。新版限制仅适用于授权更新后的新增原创部分。

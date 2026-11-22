@@ -1,21 +1,19 @@
-MIT License
+interior-fitout-drawing-review-skill 使用许可（1.0）
 
-Copyright (c) 2026 YK999671
+官方来源：https://github.com/YK999671/interior-fitout-drawing-review-skill
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+适用范围
+提交 a6fbcc556c257926efdcd4a88c98a9f3c4311e13 及此前已经按 MIT 发布的内容继续适用随附的 LICENSE-MIT，包括后续版本中沿用的这些内容。以下条款仅适用于自本次授权更新起由 YK999671 发布且有权授权的新增原创部分。 第三方组件、可选依赖和另行标注许可的材料遵循各自许可。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+安装、调整与项目交付
+任何个人或单位均可免费安装、运行和复制本许可涵盖的内容，在内部为项目调整，并向同一单位的项目成员提供所需副本。允许用于收费项目，以及向客户交付报告、图表、视频等项目成果。本许可不要求公开项目资料、成果或内部修改。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+分享与再分发
+欢迎分享官方仓库链接。可免费分享原版或修改版；分发时须保留本许可、原版权声明及官方来源，修改版须清楚标注修改者和修改事实。GitHub 平台条款允许的查看与 Fork 权利仍然适用。
+
+付费分发与官方身份
+未经权利人另行书面许可，不得出售本许可涵盖的 Skill 文件或其实质部分（含修改版），也不得将其作为付费课程、会员、资源包、软件产品或其他交易的附带交付物。禁止将其拆分或改名后进行上述交付。该限制针对 Skill 本身的付费分发，允许收取正常项目成果的服务费。
+未经授权，不得以作者名义发布修改版，或宣称获得官方认证、独家渠道或作者支持。可如实说明来源。
+
+其他
+本许可未授予的权利由相应权利人保留。法律规定的权利限制和例外仍然适用。
